@@ -1,0 +1,17 @@
+{
+  "name": "text-count",
+  "repo": "chameleonui/text-count",
+  "description": "Text counting tool",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
